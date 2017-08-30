@@ -1,2 +1,2 @@
-file1 : line1
+file1 :  some text line1
 file1 : change for pull
